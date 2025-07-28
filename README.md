@@ -19,14 +19,6 @@ $ plusmail --help
 
 ## Installation
 
-### With [`Mint`](https://github.com/yonaskolb/Mint)
-
-```
-$ mint install designedbyclowns/plusmail
-```
-
-### Manually
-
 Clone the repo then:
 
 ```
